@@ -8,20 +8,20 @@
    
 
  ### Atualmente estou aprendendo:
-##### Desenvolvimento de aplicações Restfull, com MVC, Hexagonal e Clean architecture, utilizando o Spring Boot. 
+#### Desenvolvimento de aplicações Restfull, com MVC, Hexagonal e Clean architecture, utilizando o Spring Boot. 
 ###### link: https://github.com/esmascarenhas/MCR-API.git
 ###### link: https://github.com/esmascarenhas/API-Restfull-para-Entregas.git
 ###### link: https://github.com/esmascarenhas/projeto-ClientApi.git
-##### Programação reativa com o spring boot reactive e WebFlux, com estrutura de rede Netty.
+#### Programação reativa com o spring boot reactive e WebFlux, com estrutura de rede Netty.
 link: https://github.com/esmascarenhas/Apireact-with-webFlux.git
-##### Consumo de API com os framework Postman e Swagger. 
-##### Quality assurance com Junit 5 , RestAssured e MockMVC. 
+#### Consumo de API com os framework Postman e Swagger. 
+#### Quality assurance com Junit 5 , RestAssured e MockMVC. 
 link: https://github.com/esmascarenhas/Projeto-teste-unitario-APIRest.git
-##### Monitoramento e gerenciamento de API com com Spring Boot Admin e Actuator. 
-##### Banco de dados SQL: Postgresql, MySQL, SQLSever, Oracle e H2. 
-##### Conexão com DB com o JDBC, JPA e Hibernate. 
-##### DevOps:  Conhecimento em Microsserviços e Deploy com Heroku e AWS.
-##### Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
+#### Monitoramento e gerenciamento de API com com Spring Boot Admin e Actuator. 
+#### Banco de dados SQL: Postgresql, MySQL, SQLSever, Oracle e H2. 
+#### Conexão com DB com o JDBC, JPA e Hibernate. 
+#### DevOps:  Conhecimento em Microsserviços e Deploy com Heroku e AWS.
+#### Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
 
 
 ### Procuro ingressar no mercado de tecnologia como java development, para pôr em prática o que venho aprendendo e estudando, me desenvolver profissionalmente e contribuir ativamente para o desenvolvimento da organização como um todo.
