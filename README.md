@@ -2,28 +2,28 @@
 #                           &ensp;  Hi, welcome, I'm Emerson Mascarenhas
 
 
-&ensp;                        Formado em Administração de Empresas e         
-&ensp;              Atualmente em transição de carreira para área de tecnologia.
+##                        Formado em Administração de Empresas e         
+##              Atualmente em transição de carreira para área de tecnologia.
 
    
 
- ### Atualmente estou aprendendo:
-> 1. Desenvolvimento de aplicações Restfull, com MVC, Hexagonal e Clean architecture, utilizando o Spring Boot. 
+ ## **Atualmente estou aprendendo:**
+> ###  1. Desenvolvimento de aplicações Restfull, com MVC, Hexagonal e Clean architecture, utilizando o Spring Boot. 
 > ###### link: https://github.com/esmascarenhas/MCR-API.git
 > ###### link: https://github.com/esmascarenhas/API-Restfull-para-Entregas.git
 > ###### link: https://github.com/esmascarenhas/projeto-ClientApi.git
 >
-> 2. Programação reativa com o spring boot reactive e WebFlux, com estrutura de rede Netty.
+> ###  2. Programação reativa com o spring boot reactive e WebFlux, com estrutura de rede Netty.
 >###### link: https://github.com/esmascarenhas/Apireact-with-webFlux.git
-> 3. Consumo de API com os framework Postman e Swagger. 
+> ###  3. Consumo de API com os framework Postman e Swagger. 
 > ###### link: https://github.com/esmascarenhas/MCR-API
-> 4. Quality assurance com Junit 5 , RestAssured e MockMVC. 
+> ###  4. Quality assurance com Junit 5 , RestAssured e MockMVC. 
 > ###### link: https://github.com/esmascarenhas/Projeto-teste-unitario-APIRest.git
-> 5. Monitoramento e gerenciamento de API com com Spring Boot Admin e Actuator. 
-> 6. Banco de dados SQL: Postgresql, MySQL, SQLSever, Oracle e H2. 
-> 7. Conexão com DB com o JDBC, JPA e Hibernate. 
-> 8. DevOps:  Conhecimento em Microsserviços e Deploy com Heroku e AWS.
-> 9. Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
+> ###  5. Monitoramento e gerenciamento de API com com Spring Boot Admin e Actuator. 
+> ###  6. Banco de dados SQL: Postgresql, MySQL, SQLSever, Oracle e H2. 
+> ###  7. Conexão com DB com o JDBC, JPA e Hibernate. 
+> ###  8. DevOps:  Conhecimento em Microsserviços e Deploy com Heroku e AWS.
+> ###  9. Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
 
 
  ###         **```Procuro ingressar no mercado de tecnologia como java development, para pôr em prática o que venho aprendendo e estudando, me desenvolver profissionalmente e contribuir ativamente para o desenvolvimento da organização como um todo.```**
