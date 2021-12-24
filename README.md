@@ -24,7 +24,7 @@
 >
 > ###  2. Programação reativa com o spring boot reactive e WebFlux, com estrutura de rede Netty.
 >###### link: https://github.com/esmascarenhas/Apireact-with-webFlux.git
-> ###  3. Consumo de API com os framework Postman e Swagger. 
+> ###  3. Consumo de API com os framework Postman, Insomnia e Swagger. 
 > ###### link: https://github.com/esmascarenhas/MCR-API
 > ###  4. Quality assurance com Junit 5 , RestAssured e MockMVC. 
 > ###### link: https://github.com/esmascarenhas/Projeto-teste-unitario-APIRest.git
