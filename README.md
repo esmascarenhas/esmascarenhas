@@ -4,12 +4,13 @@
                             
 #                                                                                                
 
-
+<ul>
 
 ##                                    &ensp;          Formado em Administração de Empresas e  
          
 ##              Atualmente em transição de carreira para área de tecnologia.  
-# 
+</ul>
+
 
 
    
