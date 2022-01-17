@@ -27,13 +27,16 @@
 >###### link: https://github.com/esmascarenhas/Apireact-with-webFlux.git
 > ###  3. Consumo de API com os framework Postman, Insomnia e Swagger. 
 > ###### link: https://github.com/esmascarenhas/MCR-API
-> ###  4. Quality assurance com Junit 5 , RestAssured e MockMVC. 
+> ###  4. Quality assurance com Junit 5 , RestAssured, Cucumber e MockMVC. 
 > ###### link: https://github.com/esmascarenhas/Projeto-teste-unitario-APIRest.git
-> ###  5. Monitoramento e gerenciamento de API com com Spring Boot Admin e Actuator. 
-> ###  6. Banco de dados SQL: Postgresql, MySQL, SQLSever, Oracle e H2. 
-> ###  7. Conexão com DB com o JDBC, JPA e Hibernate. 
-> ###  8. DevOps:  Conhecimento em Microsserviços e Deploy com Heroku e AWS.
-> ###  9. Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
+> ###  5. Monitoramento e gerenciamento de API com com Spring Boot Admin e Actuator.
+> ###  6. Security: Spring Security, oauth e JWT.
+> ###### link: https://github.com/esmascarenhas/management_MCR-.git
+> ###### link: https://github.com/esmascarenhas/tqi_evolution_backend_2021.git
+> ###  7. Banco de dados SQL: Postgresql, MySQL, SQLSever, Oracle e H2. 
+> ###  8. Conexão com DB com o JDBC, JPA e Hibernate. 
+> ###  9. DevOps:  CI e CD, Conhecimento em Microsserviços e Deploy com Heroku e AWS.
+> ###  10. Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
 
 #
 
