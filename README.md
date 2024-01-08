@@ -38,10 +38,7 @@
 > ###  9. DevOps:  CI e CD, Conhecimento em Microsserviços e Deploy com Heroku e AWS.
 > ###  10. Outros Conhecimentos: Princípios Solid, DDD, Clean Code, Designer Patterns, TDD e Scrum.
 
-#
 
- ###          **```Procuro ingressar no mercado de tecnologia como java development, para pôr em prática o que venho aprendendo e estudando, me desenvolver profissionalmente e contribuir ativamente para o desenvolvimento da organização como um todo.```**
- # 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emerson-mascarenhas-86b8462b 
 )
